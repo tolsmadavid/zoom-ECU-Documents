@@ -1,0 +1,2 @@
+Please refer to the Binary Resources Demo in the Board web page STM32G474E-EVAL (https://www.st.com/en/evaluation-tools/stm32g474e-eval.html)
+If the zip file contains SD_card directory, please copy whole content of this directory into the SD card.

@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=P4 Old DesignItemId=MHDR2X6 New DesignItemId=Header 8X2
+Change Component DesignItemId : Designator=P3 Old DesignItemId=MHDR2X8 New DesignItemId=Header 6X2
+Change Component DesignItemId : Designator=P2 Old DesignItemId=MHDR2X8 New DesignItemId=Header 8X2
+Change Component DesignItemId : Designator=P1 Old DesignItemId=MHDR2X10 New DesignItemId=Header 10X2
+Change Component Footprint: Designator=P4 Old Footprint=MHDR2X6 New Footprint=HDR2X8
+Change Component Footprint: Designator=P3 Old Footprint=MHDR2X8 New Footprint=HDR2X6
+Change Component Footprint: Designator=P2 Old Footprint=MHDR2X8 New Footprint=HDR2X8
+Change Component Footprint: Designator=P1 Old Footprint=MHDR2X10 New Footprint=HDR2X10
+Change Component Comment : Designator=P4 Old Comment=MHDR2X6 New Comment=Header 8X2
+Change Component Comment : Designator=P3 Old Comment=MHDR2X8 New Comment=Header 6X2
+Change Component Comment : Designator=P2 Old Comment=MHDR2X8 New Comment=Header 8X2
+Change Component Comment : Designator=P1 Old Comment=MHDR2X10 New Comment=Header 10X2

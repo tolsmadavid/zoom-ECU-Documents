@@ -1,0 +1,1 @@
+Please refer to the Binary Resources Demo in the Board web page NUCLEO-G431RB (https://www.st.com/en/evaluation-tools/nucleo-g431rb.html).
